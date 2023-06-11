@@ -1,4 +1,5 @@
-#The file contents:
+The file contents:
+---
 
 main.cpp: Vanilla tic tac toe game
 
